@@ -8,7 +8,7 @@ A simple weather homebrew app built with lpp-3ds.
 
 ![forecast3ds setup](https://github.com/sereneblue/forecast3ds/raw/master/setup.bmp)
 
-When you first start up the application, you will see a setup screen. Enter your longitude and latitude coordinates that you can find [here](http://www.latlong.net/). Tap a color scheme that you would like to use, then press the start button to grab the forecast.
+When you first start up the application, you will see a setup screen. Enter your longitude and latitude coordinates that you can find [here](http://www.latlong.net/). Tap a color scheme that you would like to use, then press the A button to grab the forecast.
 
 * This homebrew app automatically displays the correct temperature unit depending on your location.
 * To change your location, navigate inside your SD card and find forecast.settings. Update the coordinates, but leave the "|X" part intact. That determines your color scheme.
